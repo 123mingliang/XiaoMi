@@ -1,0 +1,5 @@
+  Registered.html  注册     （进入登录）
+  logo.html        登录     （进入首页）
+  index.html       首页     （进入列表，购物车）
+  List.html        列表     （进入购物车）	
+  Details.html     详情  
